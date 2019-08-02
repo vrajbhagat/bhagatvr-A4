@@ -1,0 +1,24 @@
+{
+	"horse": [{
+			"breed": "Mustang",
+			"color": "Black",
+			"origin": "Canada",
+			"height": "1.3-1.4m",
+			"image": "assets/images/horse/image1.jpeg"
+		},
+		{
+			"breed": "Shetlandpony",
+			"color": "White",
+			"origin": "Scotland",
+			"height": "70-107cm",
+			"image": "assets/images/horse/image2.jpeg"
+		},
+		{
+			"breed": "Tibetan Mastiff",
+			"color": "Black",
+			"origin": "Netherlands",
+			"height": "160cm",
+			"image": "assets/images/horse/image3.jpeg"
+		}
+	]
+}

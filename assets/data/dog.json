@@ -1,0 +1,24 @@
+{
+	"dog": [{
+			"breed": "Bulldog",
+			"color": "Grey",
+			"temperment": "Docile",
+			"weight": "23-25kg",
+			"image": "assets/images/dog/image1.jpeg"
+		},
+		{
+			"breed": "Labrador",
+			"color": "White",
+			"temperment": "Intelligent",
+			"weight": "29-36kg",
+			"image": "assets/images/dog/image2.jpeg"
+		},
+		{
+			"breed": "Tibetan Mastiff",
+			"color": "Black",
+			"temperment": "Stubborn",
+			"weight": "45-73kg",
+			"image": "assets/images/dog/image3.jpeg"
+		}
+	]
+}
